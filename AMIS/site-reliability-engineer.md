@@ -1,6 +1,6 @@
 # Senior DevOps Engineer, Release Manager
 
-公司與產品資訊請見 [AMIS/README.md](AMIS/README.md)。
+公司與產品資訊請見 [AMIS/README.md](README.md)。
 
 ## 基本條件
 * 深厚資訊科學基礎
