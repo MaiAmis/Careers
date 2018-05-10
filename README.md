@@ -1,4 +1,4 @@
-# jd
+# MaiAmis - MaiCoin + AMIS Careers
 
 歡迎來到 MaiAmis 的 Careers 專案頁面，這邊是 MaiCoin + AMIS 的工程師徵才頁面。MaiCoin 與 AMIS 是兩間關係企業，我們從不同面向切入區塊鏈產業。MaiCoin 致力於提供一個簡易並且安全的台幣與數位貨幣的窗口，透過 MaiCoin 以及 MAX (MaiCoin Asset Exchange) 兩個產品為客戶提供服務。
 
