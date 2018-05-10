@@ -1,20 +1,20 @@
 # MaiAmis = MaiCoin + AMIS 
 
-歡迎來到 MaiAmis 的 Careers 專案頁面，這邊是 MaiCoin + AMIS 的工程師徵才頁面。MaiCoin 與 AMIS 是兩間關係企業，我們從不同面向切入區塊鏈產業。
+歡迎來到 MaiAmis 的 Careers 專案頁面，這邊是 [MaiCoin](https://www.maicoin.com/) + [AMIS](https://am.is/) 的工程師徵才頁面。MaiCoin 與 AMIS 是兩間關係企業，我們從不同面向切入區塊鏈產業。
 
 ## About
 
 2014 年，MaiCoin 成為台灣首家提供新台幣兌換比特幣服務的公司。
 
-2015 年，MaiCoin 研發出一套可以追蹤不法交易的系統「BlockSeer」，協助主管機關或受害者追查比特幣的交易軌跡。
+2015 年，MaiCoin 研發出一套可以追蹤不法交易的系統「[BlockSeer](https://www.blockseer.com/)」，協助主管機關或受害者追查比特幣的交易軌跡。
 
 2017 年 1 月，AMIS 成立以延續研發能量，AMIS 成為台灣首間深耕區塊鏈技術的公司。
 
-2017 年 3 月，AMIS 作為創始會員加入以太坊企業聯盟（Enterprise Ethereum Alliance，EEA）。
+2017 年 3 月，AMIS 作為創始會員加入[以太坊企業聯盟](https://entethalliance.org/members-2/)（Enterprise Ethereum Alliance，EEA）。
 
-2018 年 2 月，AMIS 與富邦和台新銀行合作，將結合區塊鏈的帳聯網系統送進金融監理沙盒。
+2018 年 2 月，AMIS 與[富邦](https://www.fubon.com/)和[台新銀行](https://www.taishinbank.com.tw/)合作，將結合區塊鏈的帳聯網系統送進金融監理沙盒。
 
-2018 年 3 月，MAX 正式上線，是全球首家銀行信託的交易所，也是台灣唯一一家。
+2018 年 3 月，[MAX](http://max.maicoin.com/) 正式上線，是全球首家銀行信託的交易所，也是台灣唯一一家。
 
 --
 
