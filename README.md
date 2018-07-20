@@ -10,17 +10,21 @@
 
 2017 年 1 月，AMIS 成立以延續研發能量，AMIS 成為台灣首間深耕區塊鏈技術的公司。
 
-2017 年 3 月，AMIS 作為創始會員加入[以太坊企業聯盟](https://entethalliance.org/members-2/)（Enterprise Ethereum Alliance，EEA）。
+2017 年 3 月，AMIS 作為創始會員加入 [以太坊企業聯盟](https://entethalliance.org/members-2/)（Enterprise Ethereum Alliance，EEA）。
 
-2018 年 2 月，AMIS 與[富邦](https://www.fubon.com/)和[台新銀行](https://www.taishinbank.com.tw/)合作，將結合區塊鏈的帳聯網系統送進金融監理沙盒。
+2017 年 7 月，AMIS 發表 [伊斯坦堡拜占庭容錯演算法](https://www.ithome.com.tw/news/115341)（Istanbul BFT），將交易速度大幅提升，最高 1 秒可以有 1200 筆交易，獲得 [摩根大通](https://www.jpmorgan.com/)（J.P.Morgan）[Quorum](https://www.jpmorgan.com/global/Quorum) 區塊鏈平台採用。
+
+2018 年 2 月，AMIS 與 [富邦金控](https://www.fubon.com/) 和 [台新銀行](https://www.taishinbank.com.tw/) 合作，將結合區塊鏈的帳聯網系統送進金融監理沙盒。
 
 2018 年 3 月，[MAX](http://max.maicoin.com/) 正式上線，是全球首家銀行信託的交易所，也是台灣唯一一家。
+
+2018 年 5 月，AMIS 與台北富邦銀行合作的區塊鏈支付網路正式營運，目前已經提供 [國立政治大學](https://www.nccu.edu.tw/) 與北富銀合作店家使用，讓學生與上班族 [秒付買午餐](https://udn.com/news/story/7239/3139655)。
 
 --
 
 MaiAmis 將數位貨幣與區塊鏈技術帶進台灣，身為台灣區塊鏈的先行者與堅定的信仰者，我們擁有多項『第一』和『唯一』的紀錄。
 
-我們堅持消費者權益優先，絕不規避法規。在推廣數位貨幣交易平台的同時，我們還不斷注入研發能量，不只跟以太坊企業聯盟、JPMorgan 與多間國際知名機構共同合作，也成為以太坊基金會的堅定夥伴。
+我們堅持消費者權益優先，絕不規避法規。在推廣數位貨幣交易平台的同時，我們還不斷注入研發能量，不只與以太坊企業聯盟、J.P.Morgan 等多間國際知名機構共同合作，也成為以太坊基金會的堅定夥伴。
 
 ## Careers
 
