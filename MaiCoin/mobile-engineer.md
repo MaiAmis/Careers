@@ -1,6 +1,6 @@
 # Mobile Engineer
 
-公司與產品資訊請見 [Maicoin/README.md](README.md)。
+公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
 ## 工作內容
 身為工程師，你將會與跨國團隊、具有矽谷經驗的資深工程師合作。我們的團隊有來自美國 Google, Facebook, Oracle 與 Mozilla 等矽谷巨頭的工程師，而你將會負責實作、維護、測試行動應用程式，解決安全性漏洞以及擴充性問題。你也有機會直接面對一般或企業客戶，幫助他們解決使用或整合上的問題。
