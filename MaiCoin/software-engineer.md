@@ -1,6 +1,6 @@
 # Software Engineer
 
-公司與產品資訊請見 [Maicoin/README.md](README.md)。
+公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
 ## 工作內容
 身為軟體工程師，你將會與跨國團隊合作，需負責實作、維護、測試網站前、後端程式，解決安全性漏洞，調整 Javascript，資料庫，各元件效能，及擴充性問題，你也有機會直接面對一般或企業客戶，幫助他們解決使用或整合上的問題。

@@ -1,6 +1,6 @@
 # Senior DevOps Engineer, Release Manager
 
-公司與產品資訊請見 [AMIS/README.md](README.md)。
+公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
 ## 基本條件
 * 深厚資訊科學基礎
@@ -58,5 +58,5 @@
 * 鄰近捷運市政府站
 
 ## 人資或徵才聯絡方式:
-請將履歷夾帶於附件，寄信至 jobs@am.is，標題註明應徵 Blockchain 工程師或是 DevOps 工程師，
+請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明應徵 DevOps 工程師，
 我們將會與您聯絡。謝謝
