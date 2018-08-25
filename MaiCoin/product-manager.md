@@ -1,6 +1,6 @@
 # MaiCoin Product Manager JD
 
-More about MaiCoin [MaiCoin/README.md](README.md)。
+More about MaiCoin [MaiCoin/README.md](README.md)
 
 MaiCoin's mission is empowering the self-sovereign individual through blockchain technology. 
 As a Product Manager who work with teams of engineers / designers to build products. We are looking for entrepreneurial trait of Product Managers to help innovate / execute product initiatives across the company.
