@@ -1,11 +1,13 @@
-# Data Engineer
+# Data Analyst
 
 公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
 ## 工作內容
-* 與資深金融交易員，研究員合作。使用區塊鏈資料，以及其他公開資料分析及預測市場狀況。
-* 追蹤數位貨幣流向。
-* 利用各種資料與研究員合作撰寫分析報告。
+* 建構數據分析工具
+* 與資深金融交易員，研究員合作。使用區塊鏈資料，以及其他公開資料分析及預測市場狀況
+* 追蹤數位貨幣流向
+* 利用各種資料與研究員合作撰寫分析報告
+* 開發數據報告程式
 
 ## 基本條件
 * 深厚資訊科學基礎
@@ -15,17 +17,24 @@
 * 善於中英文溝通
 
 ## 基本技術條件 (必備)
+* 熱愛資料
+* 善於搜集、分析、研究資料
 * 具有搜集及分析區塊鏈資料能力（例如：BTC, ETH 等等）。可參考：[https://diar.co/volume-3-issue-16/](https://diar.co/volume-3-issue-16/)
-* 善於搜集，分析，研究資料
-* 自動化資料取得流程，並產生可用的資料集
+* 設計自動化資料取得流程，並產生可用的資料集
 * 與交易員合作設計並實作資料應用相關軟體
-* 追蹤特定錢包數位貨幣流動
-* 於不同來源（例如：社群網站，論壇等等）搜集非結構化資料
-* 至少專精一種程式語言
-* 熟悉資料處理工具：Python, KDB/q [https://code.kx.com/v2/](https://code.kx.com/v2/), Unix, SQL。熟悉  Jupyter Notebook 加分
-* 熟悉資料分析工具，例如 R。
+* 追蹤特定錢包數位貨幣流動於不同來源（例如：社群網站，論壇等等）搜集非結構化資料
+* 熟悉 Python (Python3)
+* 熟悉 RDBMS (MySQL, PostgreSQL)
+* 熟悉 Unix Commands
+* 有使用 Decision trees﹑Multivariate logistic regression﹑kNN﹑kMeans 等機器學習演算法的經驗
 
 ## 次要技術條件 (有經驗者大加分)
+* 熟悉 R
+* 熟悉 NoSQL 如 MongoDB 等
+* 熟悉 TensorFlow
+* 熟悉 KDB/q (https://code.kx.com/v2/)
+* 熟悉 Jupyter Notebook
+* 熟悉 Pandas, Numpy 等數據處理函式庫
 * 熟悉股票交易，或是有金融相關經驗
 * 熟悉區塊鏈相關技術，例如：Bitcoin, Ethereum, Ripple
 
@@ -56,4 +65,4 @@
 
 ## 徵才聯絡方式:
 
-請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明應徵 Data Engineer， 我們將會與您聯絡。謝謝
+請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明應徵 Data Analyst， 我們將會與您聯絡。謝謝
