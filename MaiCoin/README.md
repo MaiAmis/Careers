@@ -10,8 +10,8 @@ MaiCoin (maicoin.com) 是台灣具領導地位的金融科技公司，致力於�
 * [Blockchain data analytics engineer](data-analytics.md)
 * [Mobile engineer](mobile-engineer.md)
 * [Site Reliability Engineer](site-reliability-engineer.md)
+* [IT Technician](it.md)
 * [Security Engineer](security-engineer.md)
 * [Software Engineer in Test](software-engineer-in-test.md)
 * [Product Manager](product-manager.md)
 * [Product Designer](product-designer.md)
-
