@@ -14,6 +14,7 @@
 * Firewall, Switch, WiFi 相關網通設備維護經驗
 * 具有 AD, DNS 管理經驗
 * 辦公室個人電腦，行動裝置管理經驗
+* 具備 IT Support Ticket 管理經驗
 * 具備網路架構與系統架構之管理及調校優化經驗者佳
 * 了解雲端服務與容器 (Container) 的相關觀念，例如：
   * 什麼叫做負載均衡(Load Balancing)?
@@ -23,6 +24,7 @@
 ## 次要技術條件 (有經驗者大加分)
 * 了解 AWS/Azure/GCP 相關或是相關公有雲的底層網路架構
 * 使用 Configuration Management 相關經驗 (Ansible/Chef/Puppet/SaltStack)
+* 熟知網路產業趨勢和資訊安全所面臨的挑戰
 * 網路安全相關工具：Firewall, WAF, IDS/IPS
 
 ## 工作內容
