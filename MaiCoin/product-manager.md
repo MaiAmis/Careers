@@ -16,7 +16,7 @@ As a Product Manager who work with teams of engineers / designers to build produ
 
 ## MINIMUM QUALIFICATIONS
 
-* 1+ years product management or product design experience
+* 3+ years product management or product design experience
 * 1+ years of experience in technical architecture of web applications and/or media products.
 * Organizational and analytical skills
 * The ability to lead through influence and inspire those around you
