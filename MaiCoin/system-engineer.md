@@ -1,4 +1,4 @@
-# IT Technician
+# System Engineer
 
 公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
@@ -49,5 +49,5 @@
 * 鄰近捷運市政府站
 
 ## 人資或徵才聯絡方式:
-請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明應徵 IT 技術人員
+請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明應徵 System Engineer
 我們將會與您聯絡。謝謝
