@@ -1,4 +1,4 @@
-# Security Engineer
+# Cyber Security Engineer
 
 公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
@@ -58,5 +58,5 @@
 地點: 鄰近台北市捷運市政府站
 
 ## 徵才聯絡方式:
-
-請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明「應徵 MaiCoin 資安工程師」， 我們將會與您聯絡。謝謝！
+請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明應徵 Cyber Security 工程師，
+我們將會與您聯絡。謝謝
