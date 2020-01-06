@@ -1,9 +1,9 @@
-# Software Engineer
+# Frontend Engineer
 
 公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
 ## 工作內容
-身為 MaiCoin/MAX 軟體工程師，你將會負責實作、維護、測試前端或後端各項元件，並解決系統擴充性問題。你也有機會接觸部分 Ops 相關技術。
+身為 MaiCoin/MAX 前端工程師，你將會負責實作、維護、測試前端各項元件，並解決系統擴充性問題。你也有機會接觸部分 Ops 相關技術。
 除此之外，你還會深入的接觸區塊鏈與數位貨幣的技術問題，並處理資安強化相關功能。
 
 ## 基本條件
@@ -15,22 +15,22 @@
 
 ## 基本技術條件 (必備)
 * 精通至少一種程式語言
-* 熟悉 Linux 操作
 * 任一整合公開 API 經驗
-* 資訊相關科系畢業
 * 基本版本控管概念 (Git)
+* 熟悉 HTML / CSS / Javascript
 
 ## 次要技術條件 (有經驗者大加分)
-* 熟悉區塊鏈相關技術
+* 具有 React/React Native 開發經驗
+* 具有 Native App 開發經驗
 * 熟悉 Ruby on Rails
-* 熟悉 Capistrano 部屬
-* 熟悉 AWS
+* 熟悉 GraphQL 相關技術
+* 熟悉區塊鏈相關技術
 * 具有網路安全知識
 * 具有開發多人上線大型網站經驗
 * 熟悉其他腳本語言，例如 Python, Shell Script
 * 熟悉 Linux 開發環境及工具。例如：Ubuntu, Nginx, Apache
 * 熟悉軟體開發流程
-* 熟悉 VM 及 Docker 相關技術
+* 熟悉 AWS
 
 ## 薪資福利
 薪資: 年薪保證百萬以上
@@ -50,4 +50,4 @@
 
 ## 徵才聯絡方式:
 
-請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明「應徵 MaiCoin 軟體工程師」， 我們將會與您聯絡。謝謝！
+請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明「應徵 MaiCoin 前端工程師」， 我們將會與您聯絡。謝謝！
