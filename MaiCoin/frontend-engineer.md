@@ -15,22 +15,22 @@
 
 ## 基本技術條件 (必備)
 * 精通至少一種程式語言
-* 熟悉 Linux 操作
 * 任一整合公開 API 經驗
-* 資訊相關科系畢業
 * 基本版本控管概念 (Git)
+* 熟悉 HTML / CSS / Javascript
 
 ## 次要技術條件 (有經驗者大加分)
-* 熟悉區塊鏈相關技術
+* 具有 React/React Native 開發經驗
+* 具有 Native App 開發經驗
 * 熟悉 Ruby on Rails
-* 熟悉 Capistrano 部屬
-* 熟悉 AWS
+* 熟悉 GraphQL 相關技術
+* 熟悉區塊鏈相關技術
 * 具有網路安全知識
 * 具有開發多人上線大型網站經驗
 * 熟悉其他腳本語言，例如 Python, Shell Script
 * 熟悉 Linux 開發環境及工具。例如：Ubuntu, Nginx, Apache
 * 熟悉軟體開發流程
-* 熟悉 VM 及 Docker 相關技術
+* 熟悉 AWS
 
 ## 薪資福利
 薪資: 年薪保證百萬以上
