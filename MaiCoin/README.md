@@ -6,6 +6,7 @@ MaiCoin (maicoin.com) 是台灣具領導地位的金融科技公司，致力於�
 
 ## 職缺資訊
 * [HR](hr.md)
+* [Micro Service Engineer](micro-service-engineer.md)
 * [Frontend engineer](frontend-engineer.md)
 * [Software engineer](software-engineer.md)
 * [Data engineer](data-analytics.md)
