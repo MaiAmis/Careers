@@ -17,7 +17,7 @@ Amis 是一個實作及研究區塊鏈應用的軟體科技公司，目前產品
 
 ## 以太坊研究及相關開源軟體
 
-### Istanbul Byzantine Fault Tolerance ([IBFT](https://github.com/ethereum/EIPs/issues/650])) 共識演算法
+### Istanbul Byzantine Fault Tolerance ([IBFT](https://github.com/ethereum/EIPs/issues/650)) 共識演算法
 共識演算法是比較學術性質的研究，為了讓區塊鏈之間的交易更有效率，我們需要新的演算法。由於這個演算法的特性，例如：區塊交易最終性，高交易處理效能，易於控管等等，讓它非常適合帳聯網。 比較特別的是，這個產品並非營利性質的，會以開放原始碼的方式貢獻到 Github 上的 Ethereum 以及 Quorum 專案。 Ethereum 有一個企業版本，數十間公司組成了企業以太坊聯盟 (Enterprise Ethereum Alliance) 要開發這個專案。 我們研發共識演算法主要是為了幫助企業版以太坊的開發。希望在聯盟中我們公司會是一個重要的研發主力。
 
 ### Casper/Plasma/Sharding
