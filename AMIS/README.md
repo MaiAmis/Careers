@@ -28,6 +28,7 @@ AMIS 研究的方向也盡可能的和 [Ethereum Foundation](https://www.ethereu
 
 
 ## 職缺資訊
+* [Frontend Engineer](frontend-engineer.md)
 * [Blockchain/Backend Engineer](blockchain-backend-engineer.md)
 * [Site Reliability Engineer](site-reliability-engineer.md)
 
