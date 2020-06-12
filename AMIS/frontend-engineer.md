@@ -1,4 +1,4 @@
-# AMIS Blockchain/Backend Engineer
+# AMIS Frontend Engineer
 
 公司與產品資訊請見 [AMIS/README.md](README.md)。
 
