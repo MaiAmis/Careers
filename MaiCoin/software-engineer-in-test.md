@@ -11,6 +11,7 @@
 
 ## 基本技術條件 (必備)
 * 具有線上產品完整生命週期的軟體測試經驗
+* 至少專精一種程式語言 (Python為佳)
 * 至少專精一種程式語言
 * 熟悉自動化測試工具，例如：
   * Testing Framework: Robotframework, Cucumber, Jmeter, Pytest
