@@ -9,3 +9,4 @@ MaiCoin (maicoin.com) 是台灣具領導地位的金融科技公司，致力於�
 * [Site Reliability Engineer](site-reliability-engineer.md)
 * [Software Engineer in Test](software-engineer-in-test.md)
 * [Backend Engineer](backend-engineer.md)
+* [Cyber Security Engineer](cyber-security-engineer.md)
