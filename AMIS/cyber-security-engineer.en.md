@@ -1,5 +1,4 @@
 # Cyber Security Engineer
-#Company and product information [MaiCoin/README.md](README.md)
 
 ## Job description
 Currently, we are looking for a security engineer focus on offensive security and like to hands-on. You will have a high degree of autonomy to penetrate and test internal systems/service. At the same time, you also represent the security and quality of MaiCoin services. Your mission will include:
@@ -36,3 +35,6 @@ Currently, we are looking for a security engineer focus on offensive security an
 * Free snacks and drinks
 * Flexible working hours
 * Health Allowance
+
+To apply for this opportunity, please send your resume with the title "cyber security engineer" to jobs@amis.com
+We will contact you. Thank you.

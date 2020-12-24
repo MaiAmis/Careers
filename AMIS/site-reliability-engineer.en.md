@@ -29,3 +29,6 @@ AMIS is growing! We're seeking a smart, hard-working SRE to join our talented En
 * Free snacks and drinks
 * Flexible working hours
 * Health Allowance
+
+To apply for this opportunity, please send your resume with the title "site reliability engineer" to jobs@amis.com
+We will contact you. Thank you.
