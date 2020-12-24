@@ -25,7 +25,6 @@ AMIS is growing! We're seeking a smart, hard-working SRE to join our talented En
     * ELKF, Prometheus...etc
 
 ## Benefits
-
 * Competitive salary
 * Free snacks and drinks
 * Flexible working hours
