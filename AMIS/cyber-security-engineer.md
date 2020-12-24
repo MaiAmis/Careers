@@ -1,7 +1,5 @@
 # Cyber Security Engineer
 
-公司與產品資訊請見 [MaiCoin/README.md](README.md)。
-
 ## 工作內容
 目前我們正尋找一位喜歡動手並專注於進攻端的資安工程師，你將擁有高度的自主權進行內部系統的入侵與測試。同時你也代表著MaiCoin服務的安全品質，你的任務將包含:
 * 參與/規劃滲透測試和紅藍隊演練
@@ -63,5 +61,5 @@
 * 沙發休閒區，以及自由舒適的工作環境
 
 ## 徵才聯絡方式:
-請將履歷夾帶於附件，寄信至 jobs@maicoin.com，標題註明應徵 Cyber Security 工程師，
+請將履歷夾帶於附件，寄信至 jobs@amis.com，標題註明應徵 Cyber Security 工程師，
 我們將會與您聯絡。謝謝
