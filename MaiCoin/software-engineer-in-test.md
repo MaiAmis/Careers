@@ -2,36 +2,33 @@
 
 公司與產品資訊請見 [MaiCoin/README.md](README.md)。
 
-## 基本條件
+## 工作內容
+* 負責規劃產品的 Test Plan & Test Case
+* 自動化測試的實作 (API/Web/App)
+* 與 Developer 跟 SRE 合作改善 CI/CD 流程，提升軟體品質
+
+## 基本技術條件 (必備)
 * 深厚資訊科學基礎
 * 善於團隊合作
 * 重視軟體品質
 * 勇於學習新的程式語言及開發流程
 * 擅於溝通
-
-## 基本技術條件 (必備)
 * 具有線上產品完整生命週期的軟體測試經驗
 * 至少專精一種程式語言 (Python為佳)
-* 至少專精一種程式語言
 * 熟悉自動化測試工具，例如：
-  * Testing Framework: Robotframework, Cucumber, Jmeter, Pytest
-  * Web Browser Testing Tool: Selenium, BrowserStack, Source Labs
-  * Mobile Device Testing Tool: Appium
+    * Testing Framework: Robotframework, Cucumber, postman, Pytest
+    * Web Browser Testing Tool: Selenium, WebDriverIO
+    * Mobile Device Testing Tool: Appium
 * CI/CD 流程的測試整合經驗
 * 熟悉 Linux 作業環境以及 Container & VM 操作
 
 ## 次要技術條件 (有經驗者大加分)
-* 熟悉區塊鏈相關技術，例如：Bitcoin, Ethereum, Tendermint, Eris, Ripple, Open Blockchain
+* 熟悉區塊鏈相關技術，例如：Bitcoin, Ethereum
 * 資訊安全相關背景，例如： OWASP 資安測試經驗
 * 參與過 C10K 線上系統開發
 * CNCF 相關維運工具使用經驗，例如：Kubernetes,Prometheus, ELK
 * Public Cloud Provider 相關使用經驗 (AWS/Azure/GCP)
 * 有以下語言相關使用經驗，Ruby on Rails, Node.js, Golang
-
-## 工作內容
-* 負責規劃產品的 Test Plan & Test Case
-* 自動化測試的實作 (API/Web/App)
-* 與 Developer 跟 SRE 合作改善 CI/CD 流程，提升軟體品質
 
 ## 福利與環境
 
