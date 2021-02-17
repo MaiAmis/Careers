@@ -10,4 +10,3 @@ MaiCoin (maicoin.com) 是台灣具領導地位的金融科技公司，致力於�
 * [Frontend Engineer](frontend-engineer.md)
 * [Software Engineer in Test](software-engineer-in-test.md)
 * [QA Engineer](quality-assurance-engineer.md)
-* [QA 工讀生](qa-intern.md)
