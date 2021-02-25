@@ -14,13 +14,13 @@
 * 擅於溝通
 
 ## 基本技術條件 (必備)
+* 具有 React/React Native 開發經驗
 * 精通至少一種程式語言
 * 任一整合公開 API 經驗
 * 基本版本控管概念 (Git)
 * 熟悉 HTML / CSS / Javascript
 
 ## 次要技術條件 (有經驗者大加分)
-* 具有 React/React Native 開發經驗
 * 具有 Native App 開發經驗
 * 熟悉 Ruby on Rails
 * 熟悉 GraphQL 相關技術
