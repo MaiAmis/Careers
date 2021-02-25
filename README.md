@@ -2,6 +2,8 @@
 
 歡迎來到 MaiAmis 的 Careers 專案頁面，這邊是 [MaiCoin](https://www.maicoin.com/) + [AMIS](https://am.is/) 的工程師徵才頁面。MaiCoin 與 AMIS 是兩間關係企業，我們從不同面向切入區塊鏈產業。
 
+[MaiCoin Culture](MaiCoin/maicoin-culture.md) 是我們的工程文化，期待與我們有相同信念的人才，能夠加入我們的行列，一起創造台灣的競爭力。
+
 ## About
 
 2014 年，MaiCoin 成為台灣首家提供新台幣兌換比特幣服務的公司。
