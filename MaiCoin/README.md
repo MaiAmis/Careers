@@ -5,9 +5,11 @@ MaiCoin (maicoin.com) 是台灣具領導地位的金融科技公司，致力於�
 我們的辦公室鄰近於台北市捷運市政府站。我們重視每一位同仁，除了提供良好的工作環境，也給予團隊成員學習及成長的空間。歡迎優秀的朋友一起加入我們的行列。
 
 ## 職缺資訊
+* [Frontend Engineer](frontend-engineer.md)
+* [Backend Engineer](backend-engineer.md)
+* [Micro Service Engineer](micro-service-engineer.md)
 * [Cyber Security Engineer](cyber-security-engineer.md)
 * [Site Reliability Engineer](site-reliability-engineer.md)
-* [Frontend Engineer](frontend-engineer.md)
 * [Software Engineer in Test](software-engineer-in-test.md)
 * [QA Engineer](quality-assurance-engineer.md)
 * [DeFi Researcher](defi-researcher.md)
