@@ -44,6 +44,8 @@ AMIS 研究的方向也盡可能的和 [Ethereum Foundation](https://www.ethereu
 
 
 ## 職缺資訊
-* [DApp Developer/Blockchain Engineer](dapp-developer.md)
+* [Backend/Blockchain Engineer](blockchain-backend-engineer.md)
 * [Frontend Engineer](frontend-engineer.md)
+* [DApp Developer/Blockchain Engineer](dapp-developer.md)
+
 
