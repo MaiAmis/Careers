@@ -1,4 +1,4 @@
-# Cryptography Engineer 
+# Cryptographic Engineer 
 
 公司與產品資訊請見 [AMIS/README.md](README.md)。
 
@@ -64,5 +64,5 @@
 
 ## 人資或徵才聯絡方式
 
-請將履歷夾帶於附件，寄信至 jobs@amis.com，標題註明應徵 Cryptography Engineer，我們將會與您聯絡。
+請將履歷夾帶於附件，寄信至 jobs@amis.com，標題註明應徵 Cryptographic Engineer，我們將會與您聯絡。
 謝謝
