@@ -1,42 +1,31 @@
-# AMIS Blockchain/Backend Engineer
+# AMIS Senior Blockchain/Backend Engineer
 
 公司與產品資訊請見 [AMIS/README.md](README.md)。
 
 ## 基本條件
-* 深厚資訊科學基礎
 * 善於團隊合作
 * 重視軟體品質
 * 勇於學習新的程式語言及開發流程
 * 擅於溝通
 
 ## 基本技術條件 (必備)
-* 精通至少一種下列程式語言: Golang / Java / C++
+* 五年以上軟體開發經驗
+* 精通至少一種下列程式語言: Golang / Solidity (Smart contract development)
 * 熟悉 Kubernetes / Docker 容器化管理技術
-* 熟悉 GRPC / Protocol Buffers 
-* 熟悉 GIT 版本控制
+* 熟悉 GRPC / Graphql / Restful API services
 * 熟悉關聯式資料庫系統和 SQL 語言
 
 ## 次要技術條件 (有經驗者大加分)
 * 熟悉區塊鏈相關技術
 * 熟悉微服務網路程式設計
-* 熟悉 Jenkins CI
-* 分散式系統開發經驗
-* 熟悉各種共識演算法
-* 密碼學
-* P2P 系統
-
-## 其他加分項目 (有經驗者加分)
-* Node.js
-* Makefile
-* CI/CD
-* AWS, Azure, GCP
+* 熟悉密碼學
+* 有實際服務監控/營運經驗
 * 網路安全相關技能
 
 ## 工作內容
-* 開發區塊鏈即服務 (Blockchain-as-a-Service) 系統
 * 開發數位資產代管服務 (Crypto Assets Custody)：[Wallet Service](https://www.am.is/wallet-service)
+* 開發錢包服務系統: [Qubic](https://www.qubic.app/)
 * 開發階層門檻式簽章：[Alice](https://github.com/getamis/alice)
-* 開發共識演算法
 
 ## 福利與環境
 
@@ -66,6 +55,7 @@
 ## 相關連結
 * Amis open sources: [Github @getamis](https://github.com/getamis)
 * Amis blog: [Medium](https://medium.com/getamis)
+* [Qubic](https://www.qubic.app/)
 * Ethereum Devcon3: Amis 與 J.P. Morgan 發表 Istanbul BFT 與 Quorum 整合。
     * 議程連結：[Agenda](https://ipfs.io/ipfs/QmSdZQMQqzGWd4AReatLnkHRjGgqik9Ni8yP4Gr6gmkHpB/devcon3-agenda.pdf)
     * 影片連結：[Youtube](https://www.youtube.com/watch?list=PLaM7G4Llrb7xJT6JTFySxbpelkVS6GvCt&v=7PpQS4hQP9A)
