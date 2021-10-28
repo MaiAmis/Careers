@@ -9,3 +9,4 @@ MaiCoin (maicoin.com) 是台灣具領導地位的金融科技公司，致力於�
 * [Frontend Engineer](frontend-engineer.md)
 * [Backend Engineer](backend-engineer.md)
 * [Microservice Software Engineer](micro-service-engineer.md)
+* [Algorithmic Trading Software Engineer](trading-engineer.md)
