@@ -2,6 +2,10 @@
 
 公司與產品資訊請見 [AMIS/README.md](README.md)。
 
+## 工作內容
+* 開發錢包服務系統: [Qubic](https://www.qubic.app/)
+* 開發 NFT 開店工具 [Qubic Creator](https://creator.qubic.market/)
+
 ## 基本條件
 * 善於團隊合作
 * 重視軟體品質
@@ -21,11 +25,6 @@
 * 熟悉密碼學
 * 有實際服務監控/營運經驗
 * 網路安全相關技能
-
-## 工作內容
-* 開發數位資產代管服務 (Crypto Assets Custody)：[Wallet Service](https://www.am.is/wallet-service)
-* 開發錢包服務系統: [Qubic](https://www.qubic.app/)
-* 開發階層門檻式簽章：[Alice](https://github.com/getamis/alice)
 
 ## 福利與環境
 
