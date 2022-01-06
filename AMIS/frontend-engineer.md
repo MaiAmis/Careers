@@ -3,8 +3,8 @@
 公司與產品資訊請見 [AMIS/README.md](README.md)。
 
 ## 工作內容
-
-擁有新創企業 Mindset，能夠熟練地開發產品 POC 與 MVP，擅長發掘使用者需求並找出下一個殺手級應用與商機
+* 開發錢包服務系統: [Qubic](https://www.qubic.app/)
+* 開發 NFT 開店工具 [Qubic Creator](https://creator.qubic.market/)
 
 ## 基本條件
 * 深厚資訊科學基礎
