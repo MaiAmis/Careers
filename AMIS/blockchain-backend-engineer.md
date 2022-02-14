@@ -5,6 +5,7 @@
 ## 工作內容
 * 開發錢包服務系統: [Qubic](https://www.qubic.app/)
 * 開發 NFT 開店工具 [Qubic Creator](https://creator.qubic.market/)
+* 開發 [Alice](https://github.com/getamis/alice)
 
 ## 基本條件
 * 善於團隊合作
@@ -14,7 +15,7 @@
 
 ## 基本技術條件 (必備)
 * 五年以上軟體開發經驗
-* 精通至少一種下列程式語言: Golang / Solidity (Smart contract development)
+* 精通至少一種下列程式語言: Golang / Solidity (Smart contract development)/Typescript
 * 熟悉 Kubernetes / Docker 容器化管理技術
 * 熟悉 GRPC / Graphql / Restful API services
 * 熟悉關聯式資料庫系統和 SQL 語言
