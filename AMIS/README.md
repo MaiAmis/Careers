@@ -1,13 +1,24 @@
 # AMIS
 ## 公司簡介
-Amis 是一個實作及研究區塊鏈應用的軟體科技公司，目前產品主要有以下幾大方向：
+AMIS 是一個實作及研究區塊鏈應用的軟體科技公司，目前產品主要有以下幾大方向：
 
-1. 數位資產保管服務 (Digital Assets Custody Service)
-2. 帳聯網
-3. 以太坊研究，密碼學研究，及相關開源軟體
-4. 區塊鏈服務 (Blockchain-as-a-Service, BaaS)
+1. 企業級 NFT 發行與整合服務 (Qubic)
+2. 企業與個人數位資產保管服務 (Digital Assets Custody Service)
+3. 帳聯網
+4. 以太坊研究，密碼學研究，及相關開源軟體
+5. 區塊鏈服務 (Blockchain-as-a-Service, BaaS)
 
-## 數位資產保管服務 (Digital Assets Custody Service)
+## 企業級 NFT 發行與整合服務 (Qubic)
+
+Qubic 是專屬企業品牌的一站式 NFT 開店服務，幫助企業打造自己的品牌專屬 NFT 商城。
+
+Qubic 產品線包含三大服務
+
+1. Qubic Creator：全台首創，一站式企業 NFT 發行服務
+2. Qubic Wallet：最便利的去中心化錢包，支援信用卡支付功能
+3. Qubic Pass：NFT 數位通行證，創造收藏以外的無限可能
+
+## 企業與個人數位資產保管服務 (Digital Assets Custody Service)
 
 AMIS 數位資產保管服務是一種錢包服務，它包含兩個主要的元件：
 
@@ -21,6 +32,13 @@ AMIS 數位資產保管服務是一種錢包服務，它包含兩個主要的元
 3. 服務端多重驗證：所有的交易都會經過服務端多重驗證。
 4. 支援多種政策設定: 包含錢包政策、交易與IP白名單設定。
 5. 主動偵測並通報異常交易。
+
+我們也使用上述技術開發了個人使用的去中心化錢包 Qubic，善用以上技術讓 Qubic 能提供更佳親民的使用體驗，包含：
+
+1. 無需助記詞或私鑰
+2. 可使用社群帳號登入
+3. 使用密碼簽名，密碼可隨時做更換，若密碼遺失也可透過加密演算法從備份還原
+4. 整合 MaiCoin 體系之虛幣金流服務，可做到信用卡刷卡購買 NFT
 
 ## 帳聯網 / 區塊鏈服務 (Blockchain-as-a-Service, BaaS)
 
