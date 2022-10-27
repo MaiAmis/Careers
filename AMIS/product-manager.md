@@ -6,7 +6,7 @@ Product Manager - Qubic Product Suite
 
 我們正積極尋找 [Qubic Product Suite](https://www.qubic.market/) Product Manager （產品經理），Qubic Product Suite 目前整在快速成長中，我們期望這個角色能幫助我們快速成長，服務企業用戶及一般消費者。
 
-Qubic Product Suite 包含了以下三大項目：Qubic Creator，Qubic Wallet，Quite Pass。
+Qubic Product Suite 包含了以下三大項目：Qubic Creator，Qubic Wallet，Qubic Pass。
 
 * Qubic Creator：一站式企業 NFT 發行 SaaS 服務，讓企業可以透過簡易友善的操作畫面，快速成立 NFT 商店。大幅降低了區塊鏈的技術門檻，也解決了繁瑣的金流整合。
 * Qubic Wallet：最便利的去中心化錢包，整合 AMIS 知名的門檻式簽章 （[Alice](https://github.com/getamis/alice)），安全度以及友善度大幅提升。
