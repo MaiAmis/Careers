@@ -62,11 +62,5 @@ AMIS 研究的方向也盡可能的和 [Ethereum Foundation](https://www.ethereu
 
 
 ## 職缺資訊
-* [Product Manager](product-manager.md)
-* [Frontend Engineer](frontend-engineer.md)
-* [Senior Backend/Blockchain Engineer](blockchain-backend-engineer.md)
-* [Research Engineer](research-engineer.md)
-
-
-
-
+最新職缺至 Cake 平台： https://www.cake.me/companies/maicoin/jobs
+或官方 LinkedIn 搜尋：https://tw.linkedin.com/company/maicoin

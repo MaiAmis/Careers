@@ -1,26 +1,20 @@
 # MaiAmis = MaiCoin + AMIS 
 
-歡迎來到 MaiAmis 的 Careers 專案頁面，這邊是 [MaiCoin](https://www.maicoin.com/) + [AMIS](https://am.is/) 的工程師徵才頁面。MaiCoin 與 AMIS 是兩間關係企業，我們從不同面向切入區塊鏈產業。
+歡迎來到 MaiAmis 的 Careers 專案頁面，這邊是 [MaiCoin](https://www.maicoin.com/) + [AMIS](https://www.amis.com/) 的工程師徵才頁面。MaiCoin 與 AMIS 是兩間關係企業，我們從不同面向切入區塊鏈產業。
 
 [MaiCoin Culture](MaiCoin/maicoin-culture.md) 是我們的工程文化，期待與我們有相同信念的人才，能夠加入我們的行列，一起創造台灣的競爭力。
 
 ## About
 
-2014 年，MaiCoin 成為台灣首家提供新台幣兌換比特幣服務的公司。
+MaiCoin集團為台灣歷史最久的數位資產交易集團，成立於2014年，提供加密貨幣的交易服務，業務包含MaiCoin平台、AMIS帳聯網公司、MAX交易所、香港MaiCapital。
 
-2015 年，MaiCoin 研發出一套可以追蹤不法交易的系統「[BlockSeer](https://www.blockseer.com/)」，協助主管機關或受害者追查比特幣的交易軌跡。
+- MaiCoin平台提供比特幣(BTC)等加密貨幣代買代賣服務，也是台灣第一個提供以太幣(ETH)、萊特幣(LTC)、USDT等法幣交易平台。MaiCoin也是全台首家提供用戶於便利商店購買數位資產的平台。
 
-2017 年 1 月，AMIS 成立以延續研發能量，AMIS 成為台灣首間深耕區塊鏈技術的公司。
+- AMIS帳聯網公司為區塊鏈底層技術的公司，並為企業以太坊聯盟 (EEA) 的創始成員之一。2017年，JP Morgan 的以太坊平台 Quorum 宣佈其納入 AMIS 自行開發的伊斯坦堡拜占庭共識演算法為其中共識引擎的一部分。此外，AMIS 亦持續追隨 Proof of Stake 共識演算法與第二層擴容的發展，相繼投入在 Casper-FFG 與 Plasma Cash 的原型開發，並探索商業應用場景。
 
-2017 年 3 月，AMIS 作為創始會員加入 [以太坊企業聯盟](https://entethalliance.org/members-2/)（Enterprise Ethereum Alliance，EEA）。
+- MAX 交易所，於2018年成立，提供新台幣對加密貨幣之交易; 推出七個月，交易量即突破新台幣54億、2018年10月底全球交易所排行第15名(資料來源：Coingecko 統計網站)。MAX亦獨步全球，為首家將用戶資金交由銀行信託保的交易所。
 
-2017 年 7 月，AMIS 發表 [伊斯坦堡拜占庭容錯演算法](https://www.ithome.com.tw/news/115341)（Istanbul BFT），將交易速度大幅提升，最高 1 秒可以有 1200 筆交易，獲得 [摩根大通](https://www.jpmorgan.com/)（J.P.Morgan）[Quorum](https://www.jpmorgan.com/global/Quorum) 區塊鏈平台採用。
-
-2018 年 2 月，AMIS 與 [富邦金控](https://www.fubon.com/) 和 [台新銀行](https://www.taishinbank.com.tw/) 合作，將結合區塊鏈的帳聯網系統送進金融監理沙盒。
-
-2018 年 3 月，[MAX](http://max.maicoin.com/) 正式上線，是全球首家銀行信託的交易所，也是台灣唯一一家。
-
-2018 年 5 月，AMIS 與台北富邦銀行合作的區塊鏈支付網路正式營運，目前已經提供 [國立政治大學](https://www.nccu.edu.tw/) 與北富銀合作店家使用，讓學生與上班族 [秒付買午餐](https://udn.com/news/story/7239/3139655)。
+- MaiCapital為香港對沖基金公司，運用量化分析，投資在區塊鏈科技、加密貨幣與替代性資產。MaiCapital擁有香港證監會發行的證劵業務牌照(第4類以及第9類牌照)，得以合法地向經認證的投資人募資。
 
 --
 

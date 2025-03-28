@@ -5,10 +5,5 @@ MaiCoin (maicoin.com) 是台灣具領導地位的金融科技公司，致力於�
 我們的辦公室鄰近於台北市捷運市政府站。我們重視每一位同仁，除了提供良好的工作環境，也給予團隊成員學習及成長的空間。歡迎優秀的朋友一起加入我們的行列。
 
 ## 職缺資訊
-* [Micro Service Software Engineer (Wallet Team)](blockchain-engineer.md)
-* [Frontend Engineer](frontend-engineer.md)
-* [Backend Engineer](backend-engineer.md)
-* [Microservice Software Engineer](micro-service-engineer.md)
-* [Algorithmic Trading Software Engineer](trading-engineer.md)
-* [Site Reliability Engineer](site-reliability-engineer.md)
-* [Security Compliance Engineer](compliance-engineer.md)
+最新職缺至 Cake 平台： https://www.cake.me/companies/maicoin/jobs
+或官方 LinkedIn 搜尋：https://tw.linkedin.com/company/maicoin
